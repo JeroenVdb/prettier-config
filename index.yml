@@ -1,3 +1,6 @@
-useTabs: true
-singleQuote: true
-quoteProps: consistent
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "useTabs": true,
+  "singleQuote": true,
+  "quoteProps": "consistent"
+}
