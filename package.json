@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "index.yml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeroen Van den Berghe <vandenberghe.jeroen@gmail.com>",
+  "license": "ISC"
+}
