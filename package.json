@@ -1,6 +1,6 @@
 {
-  "name": "prettier-config",
-  "version": "1.0.0",
+  "name": "@jeroenvdb/prettier-config",
+  "version": "1.0.1",
   "description": "Personal prettier config",
   "main": "index.yml",
   "scripts": {
