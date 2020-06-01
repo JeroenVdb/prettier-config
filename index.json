@@ -1,5 +1,6 @@
 {
   "useTabs": true,
   "singleQuote": true,
-  "quoteProps": "consistent"
+  "quoteProps": "consistent",
+  "printWidth": 120
 }
